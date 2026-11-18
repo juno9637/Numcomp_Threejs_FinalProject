@@ -1,5 +1,9 @@
 # ThreeJS_Z_Fighting
 
+> [!TIP]
+> From the root directory use `npm run dev` to launch the demo scene
+
+
 ```
            __..--''``---....___   _..._    __
  /// //_.-'    .-/";  `        ``<._  ``.''_ `. / // /
