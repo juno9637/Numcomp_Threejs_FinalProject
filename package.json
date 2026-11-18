@@ -4,12 +4,18 @@
   "description": "```            __..--''``---....___   _..._    __  /// //_.-'    .-/\";  `        ``<._  ``.''_ `. / // / ///_.-' _..--.'_    \\                    `( ) ) // // / (_..-' // (< _     ;_..__               ; `' / ///  / // // //  `-._,_)' // / ``--...____..-' /// / // ```",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "lil-gui": "^0.21.0",
     "three": "^0.187.0"
+  },
+  "devDependencies": {
+    "vite": "^8.3.8",
+    "vite-plugin-glsl": "^1.6.3"
   }
 }
